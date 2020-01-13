@@ -18,7 +18,7 @@ public class AppTest {
                 + "    <style>\n"
                 + "        img {\n"
                 + "            max-height: 885px;\n"
-                + "            max-width: 750px;\n"
+                + "            max-width: 680px;\n"
                 + "        }\n"
                 + "    </style>\n"
                 + "</head>\n"
